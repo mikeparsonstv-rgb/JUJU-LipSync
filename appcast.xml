@@ -6,5 +6,23 @@
     <description>Updates for JUJU LipSync (direct download, beta).</description>
     <language>en</language>
     <!-- ITEMS -->
+    <item>
+      <title>Version 0.9.0 (1)</title>
+      <pubDate>Mon, 23 Nov 2026 11:21:54 GMT</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>JUJU LipSync 0.9.0 — first beta for invited testers</h3>
+<ul>
+<li>On first launch, Engine Setup builds the on-device engine on your Mac from its original sources, about 20 GB. Every file is checked before use, and if the install stops it carries on where it left off.</li>
+<li>Drop the original commercial on the left and the commercial with the new dialogue on the right, then press Go.</li>
+<li>Review shot by shot, approve, then export the master, a viewing copy and the dialogue report.</li>
+<li>Updates arrive in the app: JUJU LipSync → Check for Updates….</li>
+<li>Needs an Apple silicon Mac with macOS 26 or later, at least 32 GB of memory (64 GB or more recommended) and Homebrew.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/mikeparsonstv-rgb/JUJU-LipSync/releases/download/v0.9.0-1/JUJU-LipSync-0.9.0-1.zip" type="application/octet-stream" sparkle:edSignature="6JK8Nn0FKlXei31atx8WpfryJ+TcGdpcY6nLGd6njG2oh13nxacqXGWIvStBAnsQ1i5qqcUKqOISS6rXH/qoBA==" length="5195791"/>
+    </item>
   </channel>
 </rss>
