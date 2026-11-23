@@ -2,7 +2,7 @@
 
 AI-enhanced visual dubbing for original live-action performances: drop a commercial and its approved foreign-language dialogue, and JUJU LipSync re-times only the mouths the new language needs. The original photography stays the master.
 
-**[Download the latest version](https://github.com/mikeparsonstv-rgb/JUJU-LipSync/releases/latest)**. Open the `.dmg` and drag JUJU LipSync to Applications.
+**[Download the latest version](https://github.com/mikeparsonstv-rgb/JUJU-LipSync/releases/latest)**. Open the downloaded `.zip` (or `.dmg`), then drag JUJU LipSync to Applications.
 
 ## Requirements
 
