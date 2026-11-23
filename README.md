@@ -4,6 +4,11 @@ AI-enhanced visual dubbing for original live-action performances: drop a commerc
 
 **[Download the latest version](https://github.com/mikeparsonstv-rgb/JUJU-LipSync/releases/latest)**. Open the downloaded `.zip` (or `.dmg`), then drag JUJU LipSync to Applications.
 
+## Documentation
+
+- [User guide](docs/JUJU_LipSync_User_Guide_v0.9.0.pdf): from a fresh Mac to a delivered lip-synced master, in seven steps.
+- [White paper](docs/JUJU_LipSync_White_Paper_v0.9.0.pdf): how JUJU LipSync works, what was measured, what was tried and rejected, and the licences.
+
 ## Requirements
 
 - An Apple silicon Mac with macOS 26 or later.
