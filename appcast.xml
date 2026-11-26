@@ -7,6 +7,28 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Version 0.9.1 (2)</title>
+      <pubDate>Thu, 26 Nov 2026 21:16:49 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>JUJU LipSync 0.9.1</h3>
+<ul>
+<li>Renders finish about 10% sooner, with exactly the same picture: the model stays loaded between shots, the next shot is made ready while the current one is generated, and the shots that take longest to finish are made first.</li>
+<li>The app reopens where you left it: the commercial, the render, the shot and the frame. Quit asks only while a render or an export is running.</li>
+<li>Nothing is done twice: reopening a commercial reads back who is speaking instead of working it out again, and after you reassign a speaker only that shot is rendered again (Regenerate appears at once).</li>
+<li>Finding the shots no longer depends on the graphics processor, and a picture that cannot be read is reported instead of opening as one shot.</li>
+<li>If the Mac&#x27;s graphics processor fails during a render, the shot says so and keeps the original.</li>
+<li>Cancel stops everything, including an export. Go waits for the speaker analysis. Frame rates such as 29.97 stay frame-accurate.</li>
+<li>A approves a shot and moves to the next one waiting; Shift-A approves all.</li>
+<li>The source header is green and the master&#x27;s red.</li>
+<li>Switching to the original no longer jumps in level: at the speakers it is turned down to the master&#x27;s loudness (Playback menu to turn this off). The master and everything you export are untouched.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/mikeparsonstv-rgb/JUJU-LipSync/releases/download/v0.9.1-2/JUJU-LipSync-0.9.1-2.zip" type="application/octet-stream" sparkle:edSignature="Uf31HWiOKClQk7DfOGnrM+8yyF46ndWGkSIodnxYbCU5gegLvEiejZgND4fDjjLIQ6aokNrV+mq6eltzmSm2AA==" length="5316240"/>
+    </item>
+    <item>
       <title>Version 0.9.0 (1)</title>
       <pubDate>Mon, 23 Nov 2026 11:21:54 GMT</pubDate>
       <sparkle:version>1</sparkle:version>
